@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "nodemon server",
     "serve": "node server"
+    "export": "next build && next export"
   },
   "keywords": [],
   "author": "",
